@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalakshireddyg
-- 👀 I’m interested in ... coding
+- 👀 I’m interested in ... coding, aviation, business, interior designing, web development, fashion 
 - 🌱 I’m currently learning ... java and data structures through c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gorupally.reddy147@gmail.com
